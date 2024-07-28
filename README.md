@@ -24,7 +24,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/twitter-sentiment-analysis.git
+    git clone https://github.com/ShubhrangiD/twitter-sentiment-analysis.git
     cd twitter-sentiment-analysis
     ```
 
